@@ -1,5 +1,10 @@
 # YUH YEET
 
+   [Uno](./one.html)
+   [Two](./two.html)
+   [Tres](./three.html)
+   [Four](./four.html)
+
 This is a new test website, I don't know **what** I'm _doing_. Lol.
 
 ## YEA YEA YEA
