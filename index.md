@@ -1,9 +1,9 @@
 # YUH YEET
 
-   [Uno](./one.html)
-   [Two](./two.html)
-   [Tres](./three.html)
-   [Four](./four.html)
+   [Uno](./One.html)
+   [Two](./Two.html)
+   [Tres](./Three.html)
+   [Four](./Four.html)
 
 This is a new test website, I don't know **what** I'm _doing_. Lol.
 
